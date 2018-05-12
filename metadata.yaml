@@ -1,0 +1,34 @@
+_repo: Charles-Bradlaugh--a-Record-of-His-Life-and-Work-Volume-II--of-2-With-an-Account-of-his-Parli__45131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45131-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Robertson, J. M. (John Mackinnon)
+    alias: Robertson, John Mackinnon
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '31403'
+    url: http://www.gutenberg.org/2009/agents/31403
+    wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
+  - agent_name: Bonner, Hypatia Bradlaugh
+    birthdate: 1858
+    deathdate: 1935
+    gutenberg_agent_id: '43117'
+    url: http://www.gutenberg.org/2009/agents/43117
+description: ''
+gutenberg_issued: '2014-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bradlaugh, Charles, 1833-1891'
+- !lcc 'DA'
+title: "Charles Bradlaugh: a Record of His Life and Work, Volume 2 (of 2)\r\nWith\
+  \ an Account of his Parliamentary Struggle, Politics and Teachings. Seventh Edition"
+url: http://www.gutenberg.org/ebooks/45131
