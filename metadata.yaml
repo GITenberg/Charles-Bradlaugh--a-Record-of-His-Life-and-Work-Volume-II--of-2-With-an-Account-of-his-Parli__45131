@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '43117'
     url: http://www.gutenberg.org/2009/agents/43117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45131#Charles-Bradlaugh--a-Record-of-His-Life-and-Work-Volume-II--of-2-With-an-Account-of-his-Parli_
 gutenberg_issued: '2014-03-14'
 gutenberg_type: Text
 identifiers:
